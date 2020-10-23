@@ -5,6 +5,7 @@
 build/
 temp/
 /.vscode
+/dist
 
 tmp/*
 !tmp/.gitkeep
